@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Cocktail Cabinet</title>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://unpkg.com/vue-router@2.0.0/dist/vue-router.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+
+<body>
+ <div id="app" class="content">
+  <div class="container-fluid" id="cocktail_menu" v-if="this.$route.path === '/'">
+      <div v-for="cocktails in groupedCocktails" class="row">
+          <div v-for="cocktail in cocktails" class="col-sm-4">
+              <router-link :to="{path: '/cocktail/' + cocktail.id}"><h1>{{cocktail.name}}</h1></router-link>
+          </div>
+        </div>
+  </div>
+  <router-view></router-view>
+</div> 
+<footer id="wikipedia_statement" class="footer">We use material from the Wikipedia article <a href="https://en.wikipedia.org/wiki/List_of_cocktails">"List of cocktails"</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>.</footer>
+</body>
+	
+<script src="index.js"></script>
+</html>

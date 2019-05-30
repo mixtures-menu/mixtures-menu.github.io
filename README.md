@@ -1,1 +1,1 @@
-# mixtures-menu.github.io
+# mixtures.github.io

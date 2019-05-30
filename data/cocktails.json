@@ -1,0 +1,570 @@
+[{
+	"name": "Alexander",
+	"served": "Straight up; without ice",
+	"garnish": "Nutmeg",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["3 cl cognac", "3 cl brown cr\u00e8me de cacao", "3 cl light cream"],
+	"preparation": ["Shake all ingredients with ice and strain contents into a cocktail glass", "Sprinkle nutmeg on top and serve"],
+	"timing": "After dinner",
+	"id": 0
+}, {
+	"name": "Americano",
+	"served": "On the rocks; poured over ice",
+	"garnish": "half an orange slice, lemon twist",
+	"drinkware": "highball glass",
+	"ingredients": ["3 cl Campari", "3 cl red vermouth", "A splash of soda water"],
+	"preparation": ["Pour the Campari and vermouth over ice into a highball glass, add a splash of soda water and garnish with half orange slice and a lemon twist"],
+	"timing": "Before dinner",
+	"id": 1
+}, {
+	"name": "Angel Face",
+	"served": "Straight up; without ice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["3 cl gin", "3 cl Apricot brandy", "3 cl Calvados"],
+	"preparation": ["Shake all ingredients with ice and strain contents into a cocktail glass"],
+	"timing": "All day",
+	"id": 2
+}, {
+	"name": "Aviation",
+	"served": "Straight up; without ice",
+	"garnish": "cherry",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["4.5 cl gin", "1.5 cl lemon juice", "1.5 cl maraschino liqueur"],
+	"preparation": ["Add all ingredients into cocktail shaker filled with ice", "Shake well and strain into cocktail glass", "Garnish with a cherry"],
+	"timing": "All day",
+	"id": 3
+}, {
+	"name": "Bacardi cocktail",
+	"served": "Straight up; without ice",
+	"garnish": "Lime",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["4.5 cl white rum", "2 cl lime juice", "1 cl grenadine syrup"],
+	"preparation": ["Shake together with ice", "Strain into glass and serve"],
+	"timing": "Before dinner",
+	"id": 4
+}, {
+	"name": "Between the Sheets",
+	"served": "Straight up; without ice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["3 cl white rum", "3 cl cognac", "3 cl triple sec", "2 cl fresh lemon juice"],
+	"preparation": ["Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass"],
+	"timing": "All Day",
+	"id": 5
+}, {
+	"name": "Casino",
+	"served": "Straight up; without ice",
+	"garnish": "Lemon twist and maraschino cherry",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["4 cl gin (Old Tom)", "1 cl Maraschino", "1 cl orange bitters", "1 cl fresh lemon juice"],
+	"preparation": ["Pour all ingredients into shaker with ice cubes", "Shake well", "Strain into chilled cocktail glass", "Garnish with a lemon twist and a maraschino cherry", "Serve without a straw"],
+	"timing": "All Day",
+	"id": 6
+}, {
+	"name": "Clover Club Cocktail",
+	"served": "Straight up; without ice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["4.5cl Gin", "1.5cl Lemon Juice", "1.5cl Raspberry Syrup", "1 Egg White"],
+	"preparation": ["Dry shake ingredients to emulsify, add ice, shake and served straight up"],
+	"timing": "All Day",
+	"id": 7
+}, {
+	"name": "Daiquiri",
+	"served": "Straight up; without ice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["4.5 cl / 1.5oz (9 parts) white rum", "2.5 cl / 5/6 oz (5 parts) lime juice", "1.5 cl / 1/2 oz (3 parts) simple syrup"],
+	"preparation": ["Pour all ingredients into shaker with ice cubes", "Shake well", "Double Strain in chilled cocktail glass"],
+	"timing": "Happy Hour / Summer drink",
+	"id": 8
+}, {
+	"name": "Derby",
+	"served": "Straight up; without ice",
+	"garnish": "mint leaves",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["6 cl gin", "2 dashes peach bitters", "2 fresh mint leaves"],
+	"preparation": ["Pour all ingredients into a mixing glass with ice", "Stir", "Strain into a cocktail glass", "Garnish with a sprig of fresh mint in the drink"],
+	"timing": "All Day",
+	"id": 9
+}, {
+	"name": "Dry Martini",
+	"served": "Straight (or on the rocks)",
+	"garnish": "Olive or lemon twist",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["6 cl (6 parts) gin", "1 cl (1 parts) dry vermouth"],
+	"preparation": ["Straight: Pour all ingredients into mixing glass with ice cubes", "Stir well", "Strain in chilled martini cocktail glass", "Squeeze oil from lemon peel onto the drink, or garnish with olive"],
+	"timing": "After dinner",
+	"id": 10
+}, {
+	"name": "Fizz",
+	"served": "On the rocks; poured over ice",
+	"garnish": "grapefruit slice, maraschino cherry",
+	"drinkware": "Highball glass",
+	"ingredients": ["4.5 cl gin", "1.5 cl fresh lime juice", "1.5 cl fresh lemon juice", "3 cl simple syrup", "6 cl cream", "1 egg white", "3 dashes orange flower water", "2 drops vanilla extract", "Soda water"],
+	"preparation": ["All ingredients except the soda are poured in a mixing glass, dry shaken (no ice) for two minutes, then ice is added and shaken hard for another minute\nStrained into a highball glass without ice and topped with soda"],
+	"id": 11
+}, {
+	"name": "John Collins",
+	"served": "On the rocks; poured over ice",
+	"garnish": "Lemon slice and maraschino cherry",
+	"drinkware": "Collins glass",
+	"ingredients": ["4.5 cl (3 parts) gin", "3 cl (2 parts) freshly squeezed lemon juice", "1.5 cl (1 part) sugar syrup", "6 cl (4 parts) carbonated water"],
+	"preparation": ["Pour all ingredients directly into highball glass filled with ice", "Stir gently", "Garnish", "Add a dash of Angostura bitters"],
+	"id": 12
+}, {
+	"name": "Manhattan",
+	"served": "Straight up; without ice",
+	"garnish": "Maraschino cherry",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["5 cL Rye whiskey", "2 cL Sweet red vermouth", "Dash Angostura bitters"],
+	"preparation": ["Stirred over ice, strained into a chilled glass, garnished, and served up"],
+	"timing": "Before Dinner",
+	"id": 13
+}, {
+	"name": "Mary Pickford",
+	"served": "Straight up; without ice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["6 cl white rum", "6 cl fresh pineapple juice", "1 cl Grenadine", "1 cl Maraschino"],
+	"preparation": ["Shake and strain into a chilled large cocktail glass"],
+	"timing": "All Day",
+	"id": 14
+}, {
+	"name": "Monkey Gland",
+	"served": "Straight up; without ice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["5cl gin", "3cl orange juice", "2 drops absinthe", "2 drops grenadine"],
+	"preparation": ["Shake well over ice cubes in a shaker, strain into a chilled cocktail glass"],
+	"timing": "All Day",
+	"id": 15
+}, {
+	"name": "Negroni",
+	"served": "On the rocks; poured over ice",
+	"garnish": "Orange slice",
+	"drinkware": "Old Fashioned glass",
+	"ingredients": ["3 cl gin", "3 cl sweet red vermouth", "3 cl campari"],
+	"preparation": ["Stir into glass over ice, garnish and serve"],
+	"timing": "Before dinner",
+	"id": 16
+}, {
+	"name": "Old Fashioned",
+	"served": "On the rocks; poured over ice",
+	"garnish": "\nOrange twist\ncocktail cherry\n",
+	"drinkware": "Old Fashioned glass",
+	"ingredients": ["4.5 cl Bourbon or Rye whiskey", "2 dashes Angostura bitters", "1 sugar cube", "Few dashes plain water"],
+	"preparation": ["Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water", "\nMuddle until dissolved", "\nFill the glass with ice cubes and add whiskey", "\n\nGarnish with orange twist, and a cocktail cherry"],
+	"timing": "Before dinner",
+	"id": 17
+}, {
+	"name": "Paradise",
+	"served": "Straight up; without ice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["3.5 cl (7 parts) gin", "2 cl (4 parts) apricot brandy", "1.5 cl (3 parts) orange juice"],
+	"preparation": ["Shake together over ice", "Strain into cocktail glass and serve chilled"],
+	"timing": "All Day",
+	"id": 18
+}, {
+	"name": "Planter's Punch",
+	"served": "On the rocks; poured over ice",
+	"garnish": "Cherry and pineapple slice",
+	"drinkware": "Highball glass",
+	"ingredients": ["4.5cl Dark rum", "3.5 cl fresh orange juice", "3.5 cl fresh pineapple juice", "2 cl fresh lemon juice", "1 cl Grenadine syrup", "1 cl sugar syrup", "3 or 4 dashes Angostura bitters"],
+	"preparation": ["Pour all ingredients, except the bitters, into shaker filled with ice", "Shake well", "Pour into large glass, filled with ice", "Add Angostura bitters, \"on top\"", "Garnish with cocktail cherry and pineapple"],
+	"id": 19
+}, {
+	"name": "Porto Flip",
+	"served": "Straight up; without ice",
+	"garnish": "Grated nutmeg",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["1.5 cl (3 parts) brandy", "4.5 cl (9 parts) port", "1 cl (2 parts) egg yolk"],
+	"preparation": ["Shake ingredients together in a mixer with ice", "Strain into glass, garnish and serve"],
+	"timing": "After Dinner",
+	"id": 20
+}, {
+	"name": "Fizz",
+	"served": "On the rocks; poured over ice",
+	"garnish": "grapefruit slice, maraschino cherry",
+	"drinkware": "Highball glass",
+	"ingredients": ["4.5 cl gin", "1.5 cl fresh lime juice", "1.5 cl fresh lemon juice", "3 cl simple syrup", "6 cl cream", "1 egg white", "3 dashes orange flower water", "2 drops vanilla extract", "Soda water"],
+	"preparation": ["All ingredients except the soda are poured in a mixing glass, dry shaken (no ice) for two minutes, then ice is added and shaken hard for another minute\nStrained into a highball glass without ice and topped with soda"],
+	"id": 21
+}, {
+	"name": "Rusty Nail",
+	"served": "On the rocks; poured over ice",
+	"garnish": "Lemon twist",
+	"drinkware": "Old Fashioned glass",
+	"ingredients": ["4.5 cl Scotch Whisky", "2.5 cl Drambuie"],
+	"preparation": ["Pour all ingredients directly into old-fashioned glass filled with ice", "Stir gently", "Garnish with a lemon twist", "Serve"],
+	"timing": "After Dinner",
+	"id": 22
+}, {
+	"name": "Sazerac",
+	"served": "Straight up; without ice",
+	"garnish": "Lemon peel",
+	"drinkware": "Old Fashioned glass",
+	"ingredients": ["5 cl cognac", "1 cl absinthe", "One sugar cube", "Two dashes Peychaud's Bitters"],
+	"preparation": ["Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside", "Stir the remaining ingredients over ice and set it aside", "Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass", "Add the lemon peel for garnish"],
+	"timing": "After dinner",
+	"id": 23
+}, {
+	"name": "Screwdriver",
+	"served": "On the rocks; poured over ice",
+	"garnish": "orange slice",
+	"drinkware": "Highball glass",
+	"ingredients": ["5 cl (1 part) vodka", "10 cl (2 parts) orange juice"],
+	"preparation": ["Mix in a highball glass with ice", "Garnish and serve"],
+	"timing": "All Day",
+	"id": 24
+}, {
+	"name": "Sidecar",
+	"served": "Straight up; without ice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["5 cl cognac", "2 cl triple sec", "2 cl lemon juice"],
+	"preparation": ["Pour all ingredients into cocktail shaker filled with ice", "Shake well and strain into cocktail glass"],
+	"timing": "All Day",
+	"id": 25
+}, {
+	"name": "Stinger",
+	"served": "Straight up; without ice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["5cl cognac", "2cl white cr\u00e8me de menthe"],
+	"preparation": ["Pour in a mixing glass with ice, stir and strain into a cocktail glass", "May also be served on rocks in a rocks glass"],
+	"timing": "After Dinner (Before Dinner)",
+	"id": 26
+}, {
+	"name": "Tuxedo",
+	"served": "Straight up; without ice",
+	"garnish": "cherry, lemon zest",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["3 cl gin (Old Tom)", "3 cl dry Vermouth", "1/2 barspoon Maraschino", "1/4 barspoon Absinthe", "3 dashes orange bitters"],
+	"preparation": ["Stir all ingredients with ice and strain into a cocktail glass", "Garnish with a cherry and a twist of lemon zest"],
+	"timing": "All Day",
+	"id": 27
+}, {
+	"name": "Whiskey sour",
+	"served": "On the rocks or straight up",
+	"garnish": "Maraschino cherry and half orange slice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["4.5 cl (3 parts) bourbon whiskey", "3 cl (2 parts) fresh lemon juice", "1.5 cl (1 part) Gomme syrup", "dash egg white (optional)"],
+	"preparation": ["Shake with ice", "Strain into chilled glass, garnish and serve"],
+	"timing": "Before Dinner",
+	"id": 28
+}, {
+	"name": "Sours",
+	"served": "Straight up; without ice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["4 cl gin", "3 cl  Triple Sec", "2 cl lemon juice"],
+	"preparation": ["Add all ingredients into cocktail shaker filled with ice", "Shake well and strain into large cocktail glass"],
+	"timing": "All Day",
+	"id": 29
+}, {
+	"name": "Bellini",
+	"served": "Straight up; without ice",
+	"drinkware": "small glass",
+	"ingredients": ["10 cl (2 parts) Prosecco", "5 cl (1 part) fresh peach pur\u00e9e"],
+	"preparation": ["Pour peach pur\u00e9e into chilled glass, add sparkling wine", "Stir gently"],
+	"id": 30
+}, {
+	"name": "Black Russian",
+	"served": "On the rocks; poured over ice",
+	"drinkware": "Old Fashioned glass",
+	"ingredients": ["5 cl Vodka", "2 cl Coffee liqueur"],
+	"preparation": ["Pour the ingredients into an old fashioned glass filled with ice cubes", "Stir gently"],
+	"timing": "After dinner",
+	"id": 31
+}, {
+	"name": "Bloody Mary",
+	"served": "On the rocks; poured over ice",
+	"garnish": "Celery stalk and lemon wedge (optional)",
+	"drinkware": "Highball glass",
+	"ingredients": ["4.5 cl (3 parts) Vodka", "9 cl (6 parts) Tomato juice", "1.5 cl (1 part) Lemon juice", "2 to 3 dashes of Worcestershire Sauce", "Tabasco", "Celery salt", "Pepper"],
+	"preparation": ["Stirring gently, pour all ingredients into highball glass", "Garnish"],
+	"id": 32
+}, {
+	"name": "Caipirinha",
+	"served": "On the rocks; poured over ice",
+	"garnish": "sugarcane, lime(ingredient)",
+	"drinkware": "Old Fashioned glass",
+	"ingredients": ["5 cl cacha\u00e7a", "Half a lime cut into 4 wedges", "2 teaspoons sugar"],
+	"preparation": ["Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon)", "Fill the glass with ice and add the Cacha\u00e7a"],
+	"id": 33
+}, {
+	"name": "Champagne cocktail",
+	"served": "Straight up; without ice",
+	"garnish": "Orange slice and maraschino cherry",
+	"drinkware": "Champagne flute",
+	"ingredients": ["9cl Champagne", "1cl cognac", "2 dashes Angostura bitters", "1 sugar cube"],
+	"preparation": ["Add dash of Angostura bitter onto sugar cube and drop it into champagne flute", "Add cognac followed by gently pouring chilled champagne", "Garnish with orange slice and maraschino cherry"],
+	"id": 34
+}, {
+	"name": "Cosmopolitan",
+	"served": "Straight up; without ice",
+	"garnish": "lime slice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["4 cl Vodka Citron", "1.5 cl Cointreau", "1.5 cl Fresh lime juice", "3 cl Cranberry juice"],
+	"preparation": ["Shake all ingredients in cocktail shaker filled with ice", "Strain into a large cocktail glass", "Garnish with lime slice"],
+	"timing": "All day",
+	"id": 35
+}, {
+	"name": "Cuba Libre",
+	"served": "On the rocks; poured over ice",
+	"garnish": "Lime wedge",
+	"drinkware": "Highball glass",
+	"ingredients": ["12 cl Cola", "5 cl white rum", "1 cl Fresh lime juice"],
+	"preparation": ["Build all ingredients in a highball glass filled with ice", "Garnish with lime wedge"],
+	"id": 36
+}, {
+	"name": "French 75",
+	"served": "Straight up; without ice",
+	"drinkware": "Champagne flute",
+	"ingredients": ["3 cl gin", "2 dashes simple syrup", "1.5 cl lemon juice", "6 cl Champagne"],
+	"preparation": ["Combine gin, syrup, and lemon juice in a cocktail shaker filled with ice", "Shake vigorously and strain into a chilled champagne glass", "Top up with Champagne", "Stir gently"],
+	"id": 37
+}, {
+	"name": "The Godfather",
+	"served": "On the rocks; poured over ice",
+	"drinkware": "Old Fashioned glass",
+	"ingredients": ["3.5\u00a0cl Vodka", "3.5\u00a0cl Amaretto"],
+	"preparation": ["Pour all ingredients directly into old fashioned glass filled with ice cubes", "Stir gently"],
+	"timing": "After dinner",
+	"id": 38
+}, {
+	"name": "Grasshopper",
+	"served": "Straight up; without ice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["3 cl Cr\u00e8me de menthe (green)", "3 cl Cr\u00e8me de cacao (white)", "3 cl cream"],
+	"preparation": ["Pour ingredients into a cocktail shaker with ice", "Shake briskly and then strain into a chilled cocktail glass"],
+	"timing": "After dinner",
+	"id": 39
+}, {
+	"name": "Harvey Wallbanger",
+	"served": "On the rocks; poured over ice",
+	"garnish": "orange slice and maraschino cherry",
+	"drinkware": "Highball glass",
+	"ingredients": ["4.5 cl (3 parts) Vodka", "1.5 cl (1 part) Galliano", "9 cl(6 parts) fresh orange juice"],
+	"preparation": ["Stir the vodka and orange juice with ice in the glass, then float the Galliano on top", "Garnish and serve"],
+	"timing": "All day",
+	"id": 40
+}, {
+	"name": "Irish Coffee",
+	"served": "Hot",
+	"drinkware": "Irish coffee mug",
+	"ingredients": ["4 cl (2 parts) Irish whiskey", "8 cl (4 parts) hot coffee", "3 cl (1\u00bd parts) fresh cream", "1 tsp brown sugar"],
+	"preparation": ["\nAeroPress\nArabic coffee\nBrewed coffee\nCanned coffee\nCezve\nChorreador\nCoffeemaker\nCoffee syrup\nCold brew\nEspresso\ndoppio\nlungo\nristretto\nEspresso machine\nFrench press\nHandpresso\nHyper Text Coffee Pot Control Protocol\nInstant coffee\nKnockbox\nList of coffee dishes\nMilk coffee\nMoka pot\nPercolator\nTurkish coffee\nVacuum maker\n"],
+	"id": 41
+}, {
+	"name": "Kir",
+	"served": "Straight up; without ice",
+	"drinkware": "Wine glass (white)",
+	"ingredients": ["9 cl (9 parts) white wine", "1 cl (1 part) cr\u00e8me de cassis"],
+	"preparation": ["Add the cr\u00e8me de cassis to the bottom of the glass, then top up with wine"],
+	"timing": "Before Dinner",
+	"id": 42
+}, {
+	"name": "Long Island Iced Tea",
+	"served": "On the rocks; poured over ice",
+	"drinkware": "Highball glass",
+	"ingredients": ["1.5 cl  Tequila", "1.5 cl  Vodka", "1.5 cl  White rum", "1.5 cl  Triple sec", "1.5 cl  Gin", "2.5 cl  Lemon juice", "3.0 cl  Gomme Syrup", "1 dash of Coke"],
+	"preparation": ["Add all ingredients into highball glass filled with ice", "Stir gently", "Garnish with lemon spiral", "Serve with straw"],
+	"id": 43
+}, {
+	"name": "Mai Tai",
+	"served": "On the rocks; poured over ice",
+	"garnish": "spearmint leaves and lime shell",
+	"drinkware": "Old Fashioned glass",
+	"ingredients": ["4 cl white rum", "2 cl dark rum", "1.5 cl orange cura\u00e7ao", "1.5 cl orgeat syrup", "1 cl fresh lime juice"],
+	"preparation": ["Shake all ingredients with ice", "Strain into glass", "Garnish and serve with straw"],
+	"id": 44
+}, {
+	"name": "Margarita",
+	"served": "On the rocks; poured over ice",
+	"garnish": "Salt on the rim",
+	"drinkware": "Margarita glass",
+	"ingredients": ["60 mL (7 parts) tequila", "2 cL (4 parts) Cointreau", "1.5 cL (3 parts) lime juice"],
+	"preparation": ["Pour all ingredients into shaker with ice", "Shake well and strain into cocktail glass rimmed with salt"],
+	"timing": "All Day",
+	"id": 45
+}, {
+	"name": "Mimosa",
+	"served": "Neat; undiluted and without ice",
+	"garnish": "Orange twist",
+	"drinkware": "Champagne flute",
+	"ingredients": ["7.5 cl champagne", "7.5 cl orange juice"],
+	"preparation": ["Ensure both ingredients are well chilled, then mix into the glass", "Serve cold"],
+	"id": 46
+}, {
+	"name": "Mint julep",
+	"served": "On the rocks; poured over ice",
+	"garnish": "Mint sprig",
+	"drinkware": "Highball glass",
+	"ingredients": ["6 cL Bourbon whiskey", "4 mint leaves", "1 teaspoon powdered sugar", "2 teaspoons water"],
+	"preparation": ["In a highball glass gently muddle the mint, sugar and water", "Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted", "Garnish with a mint sprig"],
+	"id": 47
+}, {
+	"name": "Mojito",
+	"served": "On the rocks; poured over ice",
+	"garnish": "sprig of mint (Yerba buena in the original recipe), lemon slice",
+	"drinkware": "Collins glass",
+	"ingredients": ["4 cl white rum", "3 cl fresh lime juice", "6 sprigs of mint", "2 teaspoons sugar (or 2 cl of sugar syrup)", "soda water"],
+	"preparation": ["Muddle mint leaves with sugar and lime juice", "Add a splash of soda water and fill the glass with cracked ice", "Pour the rum and top with soda water", "Garnish with sprig of mint leaves and lemon slice", "Serve with straw"],
+	"id": 48
+}, {
+	"name": "Pi\u00f1a colada",
+	"served": "Blended",
+	"garnish": "Pineapple slice and/or maraschino cherry",
+	"drinkware": "Poco",
+	"id": 49
+}, {
+	"name": "Sea Breeze",
+	"served": "On the rocks; poured over ice",
+	"garnish": "lime slice",
+	"drinkware": "Highball glass",
+	"ingredients": ["4 cl Vodka", "12 cl Cranberry juice", "3 cl Grapefruit juice"],
+	"preparation": ["Build all ingredients in a highball glass filled with ice", "Garnish with lime wedge"],
+	"id": 50
+}, {
+	"name": "Sex on the Beach",
+	"served": "On the rocks; poured over ice",
+	"garnish": "orange slice",
+	"drinkware": "Highball glass",
+	"ingredients": ["4 cl Vodka", "2 cl Peach schnapps", "4 cl Orange juice", "4 cl Cranberry juice"],
+	"preparation": ["Build all ingredients in a highball glass filled with ice", "Garnish with orange slice"],
+	"id": 51
+}, {
+	"name": "Tequila Sunrise",
+	"served": "On the rocks; poured over ice",
+	"garnish": "orange slice and cherry",
+	"drinkware": "Collins glass",
+	"ingredients": ["4.5 cl (3 parts) Tequila", "9 cl (6 parts) Orange juice", "1.5 cl (1 part) Grenadine syrup"],
+	"preparation": ["Pour the tequila and orange juice into glass over ice", "Add the grenadine, which will sink to the bottom", "Stir gently to create the sunrise effect", "Garnish and serve"],
+	"id": 52
+}, {
+	"name": "B-52",
+	"served": "Neat; undiluted and without ice",
+	"garnish": "Stirrer",
+	"drinkware": "Shot glass",
+	"ingredients": ["2 cl Kahl\u00faa", "2 cl Baileys Irish Cream", "2 cl Grand Marnier"],
+	"preparation": ["Layer ingredients into a shot glass", "Serve with a stirrer"],
+	"timing": "After Dinner",
+	"id": 53
+}, {
+	"name": "Barracuda",
+	"served": "Straight up; without ice",
+	"drinkware": "Margarita glass",
+	"ingredients": ["4.5 cl Gold rum", "1.5 cl Galliano", "6 cl Pineapple juice", "1 dash fresh lime juice", "Top with Prosecco"],
+	"preparation": ["Shake pour ingredients with ice", "Strain into glass, top with Sparkling wine"],
+	"id": 54
+}, {
+	"name": "Bramble",
+	"garnish": "Blackberry, lemon slice",
+	"drinkware": "Old Fashioned glass",
+	"ingredients": ["4 cl gin", "1.5 cl lemon juice", "1 cl simple syrup", "1.5 cl Creme de Mure(blackberry liqueur)"],
+	"preparation": ["Fill glass with crushed ice", "Build gin, lemon juice and simple syrup over", "Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect", "Garnish with two blackberries and lemon slice"],
+	"timing": "All Day",
+	"id": 55
+}, {
+	"name": "Dark 'n' Stormy",
+	"served": "On the rocks; poured over ice",
+	"garnish": "Lime wedge",
+	"drinkware": "Highball glass",
+	"ingredients": ["6 cl dark rum", "10 cl ginger beer"],
+	"preparation": ["Fill glass with ice, add rum and top with ginger beer", "Garnish with lime wedge"],
+	"id": 56
+}, {
+	"name": "Dry Martini",
+	"served": "Straight (or on the rocks)",
+	"garnish": "Olive or lemon twist",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["6 cl (6 parts) gin", "1 cl (1 parts) dry vermouth"],
+	"preparation": ["Straight: Pour all ingredients into mixing glass with ice cubes", "Stir well", "Strain in chilled martini cocktail glass", "Squeeze oil from lemon peel onto the drink, or garnish with olive"],
+	"timing": "After dinner",
+	"id": 57
+}, {
+	"name": "Espresso Martini",
+	"served": "Straight up; without ice",
+	"garnish": "3 Coffee Beans",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["5 cl Vodka", "1 cl Kahlua", "Sugar syrup (according to individual preference of sweetness)", "1 short strong Espresso"],
+	"preparation": ["Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass"],
+	"id": 58
+}, {
+	"name": "French Martini",
+	"served": "Straight up; without ice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["5 cl vodka", "2.5 cl Raspberry Liqueur", "5.5 cl fresh pineapple juice"],
+	"preparation": ["Pour all ingredients into shaker with ice cubes", "Shake well and strain into a chilled cocktail glass", "Squeeze oil from lemon peel onto the drink"],
+	"timing": "Before Dinner",
+	"id": 59
+}, {
+	"name": "Kamikaze",
+	"served": "Straight up; without ice",
+	"garnish": "Lime slice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["3 cl vodka", "3 cl triple sec", "3 cl lime juice"],
+	"preparation": ["Shake all ingredients together with ice", "Strain into glass, garnish and serve"],
+	"timing": "All Day",
+	"id": 60
+}, {
+	"name": "Lemon drop martini",
+	"served": "Straight up; without ice",
+	"garnish": "Lemon slice",
+	"drinkware": "Martini glass",
+	"ingredients": ["2.5 cl vodka citron", "2 cl triple sec", "1.5 cl lemon juice"],
+	"preparation": ["Shake and strain into a chilled cocktail glass rimmed with sugar"],
+	"timing": "All Day",
+	"id": 61
+}, {
+	"name": "Pisco sour",
+	"served": "Straight up; without ice",
+	"garnish": "Angostura bitters (1 dash)",
+	"drinkware": "Old Fashioned glass",
+	"ingredients": ["4.5cl Pisco", "3cl lime juice", "2cl Simple syrup", "1 Egg white"],
+	"preparation": ["Vigorously shake contents in a cocktail shaker with ice cubes, then strain into a glass and garnish with bitters"],
+	"timing": "All Day",
+	"id": 62
+}, {
+	"name": "Russian Spring Punch",
+	"served": "highball glass",
+	"drinkware": "highball glass",
+	"ingredients": ["2.5 cl Vodka", "1.5 cl Cr\u00e8me de cassis", "1 cl Sugar Syrup", "2.5 cl Lemon Juice, fresh"],
+	"preparation": ["Pour the ingredients into an highball glass, top with Sparkling wine"],
+	"id": 63
+}, {
+	"name": "Spritz Veneziano",
+	"served": "On the rocks; poured over ice",
+	"garnish": "Orange Wedge",
+	"drinkware": "Old Fashioned glass",
+	"ingredients": ["6 cl Prosecco", "4 cl Aperol", "Splash of soda water"],
+	"preparation": ["Build into glass over ice, garnish and serve"],
+	"id": 64
+}, {
+	"name": "Tommy's Margarita",
+	"served": "straight (except at Tommy\u2019s)",
+	"drinkware": "cocktail glass",
+	"ingredients": ["4.5 cl Tequila", "1.5 cl Freshly squeezed lime juice", "2 bar spoons of agave nectar"],
+	"preparation": ["Shake and strain into a chilled cocktail glass"],
+	"timing": "All Day",
+	"id": 65
+}, {
+	"name": "Vampiro",
+	"served": "On the rocks; poured over ice",
+	"garnish": "Salt on the rim. Chili pepper (optional)",
+	"drinkware": "Old Fashioned glass",
+	"ingredients": ["5 cl tequila", "7 cl tomato juice", "3 cl fresh orange juice", "1 cl fresh lime juice", "1 teaspoon clear honey", "Half slice onion finely chopped", "Few slices fresh red hot chili pepper", "Few drops of Worcestershire Sauce", "Salt"],
+	"preparation": ["Pour ingredients into glass rimmed with salt", "Stir"],
+	"id": 66
+}, {
+	"name": "Vesper",
+	"served": "Straight up; without ice",
+	"garnish": "lemon twist",
+	"drinkware": "chilled cocktail glass",
+	"ingredients": ["6\u00a0cl gin", "1.5\u00a0cl vodka", "0.75\u00a0cl Lillet Blanc"],
+	"preparation": ["Shake and strain into a chilled cocktail glass", "Add the garnish"],
+	"timing": "Before dinner",
+	"id": 67
+}, {
+	"name": "Yellow Bird",
+	"served": "Straight up; without ice",
+	"drinkware": "Cocktail glass",
+	"ingredients": ["3 cl White Rum", "1.5 cl Galliano", "1.5 cl Triple sec", "1.5 cl Lime juice"],
+	"preparation": ["Shake and strain into a chilled cocktail glass"],
+	"timing": "All Day",
+	"id": 68
+}]
