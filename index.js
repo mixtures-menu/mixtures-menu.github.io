@@ -37,6 +37,7 @@ const menu_item = Vue.component('cocktail-menu-item', {
 })
 
 const router = new VueRouter({
+  mode: 'history',
   routes: [
     { path: '/cocktail/:cocktail_id', component: menu_item}
   ]
