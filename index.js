@@ -5,7 +5,7 @@ const menu_item = Vue.component('cocktail-menu-item', {
   {{cocktail.served}}<br><br>\
   <h2>Ingredients</h2>\
   <ul>\
-    <li v-for="ingredient in cocktail.ingredients">{{ingredient}}</li>\
+    <li v-for="ingredient in cocktail.ingredients">{{ingredient.measure}} {{ingredient.unit}} {{ingredient.ingredient}}</li>\
   </ul>\
   <h2 v-if="cocktail.preparation">Preparation</h2>\
   <ul>\
@@ -30,14 +30,21 @@ const menu_item = Vue.component('cocktail-menu-item', {
     getData: function(){
       var self = this;
       $.getJSON("/data/cocktails.json", function(data) {
-        self.cocktail = data[self.$route.params.cocktail_id];
+        for(index in data)
+        {
+          cocktail = data[index];
+          if(self.$route.params.cocktail_url == cocktail["url"])
+          {
+            self.cocktail = cocktail;
+            return
+          }
+        }
       })
     }
   }
 })
 
 const router = new VueRouter({
-  mode: 'history',
   routes: [
     { name: 'cocktail', path: '/cocktail/:cocktail_url', component: menu_item}
   ]
