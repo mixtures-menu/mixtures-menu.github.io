@@ -29,7 +29,7 @@
   <div class="container-fluid" id="cocktail_menu" v-if="this.$route.path === '/'">
       <div v-for="cocktails in groupedCocktails" class="row">
           <div v-for="cocktail in cocktails" class="col-sm-4">
-              <router-link :to="{path: '/cocktail/' + cocktail.id}"><h1>{{cocktail.name}}</h1></router-link>
+              <router-link :to="{ name: 'cocktail', params:{ cocktail_url: cocktail.url, cocktail_id: cocktail.id}}"><h1>{{cocktail.name}}</h1></router-link>
           </div>
         </div>
   </div>
