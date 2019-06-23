@@ -75,3 +75,5 @@ computed:{
   }
 }
 })
+
+Vue.config.productionTip = false
