@@ -1,9 +1,9 @@
 [  
    {  
       "name":"Alexander",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"Nutmeg",
-      "drinkware":"Cocktail glass",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"3",
@@ -25,13 +25,13 @@
          "Shake all ingredients with ice and strain contents into a cocktail glass",
          "Sprinkle nutmeg on top and serve"
       ],
-      "timing":"After dinner",
+      "timing":"after dinner",
       "id":0,
       "url":"alexander-cocktail-recipe"
    },
    {  
       "name":"Americano",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"half an orange slice, lemon twist",
       "drinkware":"highball glass",
       "ingredients":[  
@@ -45,23 +45,23 @@
             "unit":"cl",
             "ingredient":"red vermouth"
          },
-         {
+         {  
             "measure":"1",
-            "unit": "splash",
-            "ingredient": "soda water"
+            "unit":"splash",
+            "ingredient":"soda water"
          }
       ],
       "preparation":[  
          "Pour the Campari and vermouth over ice into a highball glass, add a splash of soda water and garnish with half orange slice and a lemon twist"
       ],
-      "timing":"Before dinner",
+      "timing":"before dinner",
       "id":1,
       "url":"americano-cocktail-recipe"
    },
    {  
       "name":"Angel Face",
-      "served":"Straight up; without ice",
-      "drinkware":"Cocktail glass",
+      "served":"straight up; without ice",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"3",
@@ -82,15 +82,15 @@
       "preparation":[  
          "Shake all ingredients with ice and strain contents into a cocktail glass"
       ],
-      "timing":"All day",
+      "timing":"all day",
       "id":2,
       "url":"angel-face-cocktail-recipe"
    },
    {  
       "name":"Aviation",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"cherry",
-      "drinkware":"Cocktail glass",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"4.5",
@@ -113,15 +113,15 @@
          "Shake well and strain into cocktail glass",
          "Garnish with a cherry"
       ],
-      "timing":"All day",
+      "timing":"all day",
       "id":3,
       "url":"aviation-cocktail-recipe"
    },
    {  
       "name":"Bacardi cocktail",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"Lime",
-      "drinkware":"Cocktail glass",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"4.5",
@@ -143,14 +143,14 @@
          "Shake together with ice",
          "Strain into glass and serve"
       ],
-      "timing":"Before dinner",
+      "timing":"before dinner",
       "id":4,
       "url":"bacardi-cocktail-cocktail-recipe"
    },
    {  
       "name":"Between the Sheets",
-      "served":"Straight up; without ice",
-      "drinkware":"Cocktail glass",
+      "served":"straight up; without ice",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"3",
@@ -176,15 +176,15 @@
       "preparation":[  
          "Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":5,
       "url":"between-the-sheets-cocktail-recipe"
    },
    {  
       "name":"Casino",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"Lemon twist and maraschino cherry",
-      "drinkware":"Cocktail glass",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"4",
@@ -214,14 +214,14 @@
          "Garnish with a lemon twist and a maraschino cherry",
          "Serve without a straw"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":6,
       "url":"casino-cocktail-recipe"
    },
    {  
       "name":"Clover Club Cocktail",
-      "served":"Straight up; without ice",
-      "drinkware":"Cocktail glass",
+      "served":"straight up; without ice",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"4.5",
@@ -247,14 +247,14 @@
       "preparation":[  
          "Dry shake ingredients to emulsify, add ice, shake and served straight up"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":7,
       "url":"clover-club-cocktail-cocktail-recipe"
    },
    {  
       "name":"Daiquiri",
-      "served":"Straight up; without ice",
-      "drinkware":"Cocktail glass",
+      "served":"straight up; without ice",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"4.5",
@@ -277,15 +277,15 @@
          "Shake well",
          "Double Strain in chilled cocktail glass"
       ],
-      "timing":"Happy Hour / Summer drink",
+      "timing":"happy hour / summer drink",
       "id":8,
       "url":"daiquiri-cocktail-recipe"
    },
    {  
       "name":"Derby",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"mint leaves",
-      "drinkware":"Cocktail glass",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"6",
@@ -309,15 +309,15 @@
          "Strain into a cocktail glass",
          "Garnish with a sprig of fresh mint in the drink"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":9,
       "url":"derby-cocktail-recipe"
    },
    {  
       "name":"Dry Martini",
-      "served":"Straight (or on the rocks)",
+      "served":"straight (or on the rocks)",
       "garnish":"Olive or lemon twist",
-      "drinkware":"Cocktail glass",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"6",
@@ -336,15 +336,15 @@
          "Strain in chilled martini cocktail glass",
          "Squeeze oil from lemon peel onto the drink, or garnish with olive"
       ],
-      "timing":"After dinner",
+      "timing":"after dinner",
       "id":10,
       "url":"dry-martini-cocktail-recipe"
    },
    {  
       "name":"Ramos Gin Fizz",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"grapefruit slice, maraschino cherry",
-      "drinkware":"Highball glass",
+      "drinkware":"highball glass",
       "ingredients":[  
          {  
             "measure":"4.5",
@@ -400,9 +400,9 @@
    },
    {  
       "name":"John Collins",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"Lemon slice and maraschino cherry",
-      "drinkware":"Collins glass",
+      "drinkware":"collins glass",
       "ingredients":[  
          {  
             "measure":"4.5",
@@ -436,9 +436,9 @@
    },
    {  
       "name":"Manhattan",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"Maraschino cherry",
-      "drinkware":"Cocktail glass",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"5",
@@ -459,14 +459,14 @@
       "preparation":[  
          "Stirred over ice, strained into a chilled glass, garnished, and served up"
       ],
-      "timing":"Before Dinner",
+      "timing":"before dinner",
       "id":13,
       "url":"manhattan-cocktail-recipe"
    },
    {  
       "name":"Mary Pickford",
-      "served":"Straight up; without ice",
-      "drinkware":"Cocktail glass",
+      "served":"straight up; without ice",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"6",
@@ -492,14 +492,14 @@
       "preparation":[  
          "Shake and strain into a chilled large cocktail glass"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":14,
       "url":"mary-pickford-cocktail-recipe"
    },
    {  
       "name":"Monkey Gland",
-      "served":"Straight up; without ice",
-      "drinkware":"Cocktail glass",
+      "served":"straight up; without ice",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"5",
@@ -525,15 +525,15 @@
       "preparation":[  
          "Shake well over ice cubes in a shaker, strain into a chilled cocktail glass"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":15,
       "url":"monkey-gland-cocktail-recipe"
    },
    {  
       "name":"Negroni",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"Orange slice",
-      "drinkware":"Old Fashioned glass",
+      "drinkware":"old fashioned glass",
       "ingredients":[  
          {  
             "measure":"3",
@@ -554,32 +554,32 @@
       "preparation":[  
          "Stir into glass over ice, garnish and serve"
       ],
-      "timing":"Before dinner",
+      "timing":"before dinner",
       "id":16,
       "url":"negroni-cocktail-recipe"
    },
    {  
       "name":"Old Fashioned",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"\nOrange twist\ncocktail cherry\n",
-      "drinkware":"Old Fashioned glass",
+      "drinkware":"old fashioned glass",
       "ingredients":[  
          {  
             "measure":"4.5",
             "unit":"cl",
             "ingredient":"Bourbon or Rye whiskey"
          },
-        {  
+         {  
             "measure":"2",
             "unit":"dashes",
             "ingredient":"Angostura bitters"
          },
-        {  
+         {  
             "measure":"1",
             "unit":"cube",
             "ingredient":"Sugar"
          },
-        {  
+         {  
             "measure":"2",
             "unit":"dashes",
             "ingredient":"water"
@@ -591,14 +591,14 @@
          "\nFill the glass with ice cubes and add whiskey",
          "\n\nGarnish with orange twist, and a cocktail cherry"
       ],
-      "timing":"Before dinner",
+      "timing":"before dinner",
       "id":17,
       "url":"old-fashioned-cocktail-recipe"
    },
    {  
       "name":"Paradise",
-      "served":"Straight up; without ice",
-      "drinkware":"Cocktail glass",
+      "served":"straight up; without ice",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"3.5",
@@ -620,15 +620,15 @@
          "Shake together over ice",
          "Strain into cocktail glass and serve chilled"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":18,
       "url":"paradise-cocktail-recipe"
    },
    {  
       "name":"Planter's Punch",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"Cherry and pineapple slice",
-      "drinkware":"Highball glass",
+      "drinkware":"highball glass",
       "ingredients":[  
          {  
             "measure":"4.5",
@@ -660,7 +660,7 @@
             "unit":"cl",
             "ingredient":"sugar syrup"
          },
-        {  
+         {  
             "measure":"3",
             "unit":"dashes",
             "ingredient":"Angostura bitters"
@@ -678,9 +678,9 @@
    },
    {  
       "name":"Porto Flip",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"Grated nutmeg",
-      "drinkware":"Cocktail glass",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"1.5",
@@ -702,15 +702,15 @@
          "Shake ingredients together in a mixer with ice",
          "Strain into glass, garnish and serve"
       ],
-      "timing":"After Dinner",
+      "timing":"after dinner",
       "id":20,
       "url":"porto-flip-cocktail-recipe"
    },
    {  
       "name":"Fizz",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"grapefruit slice, maraschino cherry",
-      "drinkware":"Highball glass",
+      "drinkware":"highball glass",
       "ingredients":[  
          {  
             "measure":"4.5",
@@ -750,9 +750,9 @@
    },
    {  
       "name":"Rusty Nail",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"Lemon twist",
-      "drinkware":"Old Fashioned glass",
+      "drinkware":"old fashioned glass",
       "ingredients":[  
          {  
             "measure":"4.5",
@@ -771,15 +771,15 @@
          "Garnish with a lemon twist",
          "Serve"
       ],
-      "timing":"After Dinner",
+      "timing":"after dinner",
       "id":22,
       "url":"rusty-nail-cocktail-recipe"
    },
    {  
       "name":"Sazerac",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"Lemon peel",
-      "drinkware":"Old Fashioned glass",
+      "drinkware":"old fashioned glass",
       "ingredients":[  
          {  
             "measure":"5",
@@ -791,12 +791,12 @@
             "unit":"cl",
             "ingredient":"absinthe"
          },
-        {  
+         {  
             "measure":"1",
             "unit":"cube",
             "ingredient":"sugar"
          },
-        {  
+         {  
             "measure":"2",
             "unit":"dashes",
             "ingredient":"Peychaud's Bitters"
@@ -808,15 +808,15 @@
          "Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass",
          "Add the lemon peel for garnish"
       ],
-      "timing":"After dinner",
+      "timing":"after dinner",
       "id":23,
       "url":"sazerac-cocktail-recipe"
    },
    {  
       "name":"Screwdriver",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"orange slice",
-      "drinkware":"Highball glass",
+      "drinkware":"highball glass",
       "ingredients":[  
          {  
             "measure":"5",
@@ -833,14 +833,14 @@
          "Mix in a highball glass with ice",
          "Garnish and serve"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":24,
       "url":"screwdriver-cocktail-recipe"
    },
    {  
       "name":"Sidecar",
-      "served":"Straight up; without ice",
-      "drinkware":"Cocktail glass",
+      "served":"straight up; without ice",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"5",
@@ -862,14 +862,14 @@
          "Pour all ingredients into cocktail shaker filled with ice",
          "Shake well and strain into cocktail glass"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":25,
       "url":"sidecar-cocktail-recipe"
    },
    {  
       "name":"Stinger",
-      "served":"Straight up; without ice",
-      "drinkware":"Cocktail glass",
+      "served":"straight up; without ice",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"5",
@@ -886,15 +886,15 @@
          "Pour in a mixing glass with ice, stir and strain into a cocktail glass",
          "May also be served on rocks in a rocks glass"
       ],
-      "timing":"After Dinner (Before Dinner)",
+      "timing":"after dinner (before dinner)",
       "id":26,
       "url":"stinger-cocktail-recipe"
    },
    {  
       "name":"Tuxedo",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"cherry, lemon zest",
-      "drinkware":"Cocktail glass",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"3",
@@ -926,15 +926,15 @@
          "Stir all ingredients with ice and strain into a cocktail glass",
          "Garnish with a cherry and a twist of lemon zest"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":27,
       "url":"tuxedo-cocktail-recipe"
    },
    {  
       "name":"Whiskey sour",
-      "served":"On the rocks or straight up",
+      "served":"on the rocks or straight up",
       "garnish":"Maraschino cherry and half orange slice",
-      "drinkware":"Cocktail glass",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"4.5",
@@ -961,14 +961,14 @@
          "Shake with ice",
          "Strain into chilled glass, garnish and serve"
       ],
-      "timing":"Before Dinner",
+      "timing":"before dinner",
       "id":28,
       "url":"whiskey-sour-cocktail-recipe"
    },
    {  
       "name":"Sours",
-      "served":"Straight up; without ice",
-      "drinkware":"Cocktail glass",
+      "served":"straight up; without ice",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"4",
@@ -990,13 +990,13 @@
          "Add all ingredients into cocktail shaker filled with ice",
          "Shake well and strain into large cocktail glass"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":29,
       "url":"sours-cocktail-recipe"
    },
    {  
       "name":"Bellini",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "drinkware":"small glass",
       "ingredients":[  
          {  
@@ -1019,8 +1019,8 @@
    },
    {  
       "name":"Black Russian",
-      "served":"On the rocks; poured over ice",
-      "drinkware":"Old Fashioned glass",
+      "served":"on the rocks; poured over ice",
+      "drinkware":"old fashioned glass",
       "ingredients":[  
          {  
             "measure":"5",
@@ -1037,15 +1037,15 @@
          "Pour the ingredients into an old fashioned glass filled with ice cubes",
          "Stir gently"
       ],
-      "timing":"After dinner",
+      "timing":"after dinner",
       "id":31,
       "url":"black-russian-cocktail-recipe"
    },
    {  
       "name":"Bloody Mary",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"Celery stalk and lemon wedge (optional)",
-      "drinkware":"Highball glass",
+      "drinkware":"highball glass",
       "ingredients":[  
          {  
             "measure":"4.5",
@@ -1092,21 +1092,21 @@
    },
    {  
       "name":"Caipirinha",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"sugarcane, lime(ingredient)",
-      "drinkware":"Old Fashioned glass",
+      "drinkware":"old fashioned glass",
       "ingredients":[  
          {  
             "measure":"5",
             "unit":"cl",
             "ingredient":"cacha\u00e7a"
          },
-        {  
+         {  
             "measure":"1",
             "unit":"whole",
             "ingredient":"lime"
          },
-        {  
+         {  
             "measure":"2",
             "unit":"teaspoons",
             "ingredient":"sugar"
@@ -1121,9 +1121,9 @@
    },
    {  
       "name":"Champagne cocktail",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"Orange slice and maraschino cherry",
-      "drinkware":"Champagne flute",
+      "drinkware":"champagne flute",
       "ingredients":[  
          {  
             "measure":"9",
@@ -1135,12 +1135,12 @@
             "unit":"cl",
             "ingredient":"cognac"
          },
-        {  
+         {  
             "measure":"2",
             "unit":"dashes",
             "ingredient":"Angostura bitters"
          },
-        {  
+         {  
             "measure":"1",
             "unit":"cube",
             "ingredient":"sugar"
@@ -1156,9 +1156,9 @@
    },
    {  
       "name":"Cosmopolitan",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"lime slice",
-      "drinkware":"Cocktail glass",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"4",
@@ -1186,15 +1186,15 @@
          "Strain into a large cocktail glass",
          "Garnish with lime slice"
       ],
-      "timing":"All day",
+      "timing":"all day",
       "id":35,
       "url":"cosmopolitan-cocktail-recipe"
    },
    {  
       "name":"Cuba Libre",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"Lime wedge",
-      "drinkware":"Highball glass",
+      "drinkware":"highball glass",
       "ingredients":[  
          {  
             "measure":"12",
@@ -1221,15 +1221,15 @@
    },
    {  
       "name":"French 75",
-      "served":"Straight up; without ice",
-      "drinkware":"Champagne flute",
+      "served":"straight up; without ice",
+      "drinkware":"champagne flute",
       "ingredients":[  
          {  
             "measure":"3",
             "unit":"cl",
             "ingredient":"gin"
          },
-        {  
+         {  
             "measure":"2",
             "unit":"dashes",
             "ingredient":"simple syrup"
@@ -1256,10 +1256,10 @@
    },
    {  
       "name":"The Godfather",
-      "served":"On the rocks; poured over ice",
-      "drinkware":"Old Fashioned glass",
-      "ingredients":[
-          {  
+      "served":"on the rocks; poured over ice",
+      "drinkware":"old fashioned glass",
+      "ingredients":[  
+         {  
             "measure":"3.5",
             "unit":"cl",
             "ingredient":"Vodka"
@@ -1274,14 +1274,14 @@
          "Pour all ingredients directly into old fashioned glass filled with ice cubes",
          "Stir gently"
       ],
-      "timing":"After dinner",
+      "timing":"after dinner",
       "id":38,
       "url":"the-godfather-cocktail-recipe"
    },
    {  
       "name":"Grasshopper",
-      "served":"Straight up; without ice",
-      "drinkware":"Cocktail glass",
+      "served":"straight up; without ice",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"3",
@@ -1303,15 +1303,15 @@
          "Pour ingredients into a cocktail shaker with ice",
          "Shake briskly and then strain into a chilled cocktail glass"
       ],
-      "timing":"After dinner",
+      "timing":"after dinner",
       "id":39,
       "url":"grasshopper-cocktail-recipe"
    },
    {  
       "name":"Harvey Wallbanger",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"orange slice and maraschino cherry",
-      "drinkware":"Highball glass",
+      "drinkware":"highball glass",
       "ingredients":[  
          {  
             "measure":"4.5",
@@ -1333,14 +1333,14 @@
          "Stir the vodka and orange juice with ice in the glass, then float the Galliano on top",
          "Garnish and serve"
       ],
-      "timing":"All day",
+      "timing":"all day",
       "id":40,
       "url":"harvey-wallbanger-cocktail-recipe"
    },
    {  
       "name":"Irish Coffee",
-      "served":"Hot",
-      "drinkware":"Irish coffee mug",
+      "served":"hot",
+      "drinkware":"irish coffee mug",
       "ingredients":[  
          {  
             "measure":"4",
@@ -1371,8 +1371,8 @@
    },
    {  
       "name":"Kir",
-      "served":"Straight up; without ice",
-      "drinkware":"Wine glass (white)",
+      "served":"straight up; without ice",
+      "drinkware":"wine glass (white)",
       "ingredients":[  
          {  
             "measure":"9",
@@ -1388,14 +1388,14 @@
       "preparation":[  
          "Add the cr\u00e8me de cassis to the bottom of the glass, then top up with wine"
       ],
-      "timing":"Before Dinner",
+      "timing":"before dinner",
       "id":42,
       "url":"kir-cocktail-recipe"
    },
    {  
       "name":"Long Island Iced Tea",
-      "served":"On the rocks; poured over ice",
-      "drinkware":"Highball glass",
+      "served":"on the rocks; poured over ice",
+      "drinkware":"highball glass",
       "ingredients":[  
          {  
             "measure":"1.5",
@@ -1449,9 +1449,9 @@
    },
    {  
       "name":"Mai Tai",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"spearmint leaves and lime shell",
-      "drinkware":"Old Fashioned glass",
+      "drinkware":"old fashioned glass",
       "ingredients":[  
          {  
             "measure":"4",
@@ -1489,9 +1489,9 @@
    },
    {  
       "name":"Margarita",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"Salt on the rim",
-      "drinkware":"Margarita glass",
+      "drinkware":"margarita glass",
       "ingredients":[  
          {  
             "measure":"6",
@@ -1513,15 +1513,15 @@
          "Pour all ingredients into shaker with ice",
          "Shake well and strain into cocktail glass rimmed with salt"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":45,
       "url":"margarita-cocktail-recipe"
    },
    {  
       "name":"Mimosa",
-      "served":"Neat; undiluted and without ice",
+      "served":"neat; undiluted and without ice",
       "garnish":"Orange twist",
-      "drinkware":"Champagne flute",
+      "drinkware":"champagne flute",
       "ingredients":[  
          {  
             "measure":"7.5",
@@ -1543,9 +1543,9 @@
    },
    {  
       "name":"Mint julep",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"Mint sprig",
-      "drinkware":"Highball glass",
+      "drinkware":"highball glass",
       "ingredients":[  
          {  
             "measure":"6",
@@ -1578,9 +1578,9 @@
    },
    {  
       "name":"Mojito",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"sprig of mint (Yerba buena in the original recipe), lemon slice",
-      "drinkware":"Collins glass",
+      "drinkware":"collins glass",
       "ingredients":[  
          {  
             "measure":"4",
@@ -1620,9 +1620,9 @@
    },
    {  
       "name":"Pi\u00f1a colada",
-      "served":"Blended",
+      "served":"blended",
       "garnish":"Pineapple slice and/or maraschino cherry",
-      "drinkware":"Poco",
+      "drinkware":"poco",
       "ingredients":[  
          {  
             "measure":"3",
@@ -1645,9 +1645,9 @@
    },
    {  
       "name":"Sea Breeze",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"lime slice",
-      "drinkware":"Highball glass",
+      "drinkware":"highball glass",
       "ingredients":[  
          {  
             "measure":"4",
@@ -1674,9 +1674,9 @@
    },
    {  
       "name":"Sex on the Beach",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"orange slice",
-      "drinkware":"Highball glass",
+      "drinkware":"highball glass",
       "ingredients":[  
          {  
             "measure":"4",
@@ -1708,9 +1708,9 @@
    },
    {  
       "name":"Tequila Sunrise",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"orange slice and cherry",
-      "drinkware":"Collins glass",
+      "drinkware":"collins glass",
       "ingredients":[  
          {  
             "measure":"4.5",
@@ -1739,9 +1739,9 @@
    },
    {  
       "name":"B-52",
-      "served":"Neat; undiluted and without ice",
+      "served":"neat; undiluted and without ice",
       "garnish":"Stirrer",
-      "drinkware":"Shot glass",
+      "drinkware":"shot glass",
       "ingredients":[  
          {  
             "measure":"2",
@@ -1763,14 +1763,14 @@
          "Layer ingredients into a shot glass",
          "Serve with a stirrer"
       ],
-      "timing":"After Dinner",
+      "timing":"after dinner",
       "id":53,
       "url":"b-52-cocktail-recipe"
    },
    {  
       "name":"Barracuda",
-      "served":"Straight up; without ice",
-      "drinkware":"Margarita glass",
+      "served":"straight up; without ice",
+      "drinkware":"margarita glass",
       "ingredients":[  
          {  
             "measure":"4.5",
@@ -1808,7 +1808,7 @@
    {  
       "name":"Bramble",
       "garnish":"Blackberry, lemon slice",
-      "drinkware":"Old Fashioned glass",
+      "drinkware":"old fashioned glass",
       "ingredients":[  
          {  
             "measure":"4",
@@ -1837,15 +1837,15 @@
          "Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect",
          "Garnish with two blackberries and lemon slice"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":55,
       "url":"bramble-cocktail-recipe"
    },
    {  
       "name":"Dark 'n' Stormy",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"Lime wedge",
-      "drinkware":"Highball glass",
+      "drinkware":"highball glass",
       "ingredients":[  
          {  
             "measure":"6",
@@ -1867,9 +1867,9 @@
    },
    {  
       "name":"Dry Martini",
-      "served":"Straight (or on the rocks)",
+      "served":"straight (or on the rocks)",
       "garnish":"Olive or lemon twist",
-      "drinkware":"Cocktail glass",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"6",
@@ -1888,15 +1888,15 @@
          "Strain in chilled martini cocktail glass",
          "Squeeze oil from lemon peel onto the drink, or garnish with olive"
       ],
-      "timing":"After dinner",
+      "timing":"after dinner",
       "id":57,
       "url":"dry-martini-cocktail-recipe"
    },
    {  
       "name":"Espresso Martini",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"3 Coffee Beans",
-      "drinkware":"Cocktail glass",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"5",
@@ -1927,8 +1927,8 @@
    },
    {  
       "name":"French Martini",
-      "served":"Straight up; without ice",
-      "drinkware":"Cocktail glass",
+      "served":"straight up; without ice",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"5",
@@ -1951,15 +1951,15 @@
          "Shake well and strain into a chilled cocktail glass",
          "Squeeze oil from lemon peel onto the drink"
       ],
-      "timing":"Before Dinner",
+      "timing":"before dinner",
       "id":59,
       "url":"french-martini-cocktail-recipe"
    },
    {  
       "name":"Kamikaze",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"Lime slice",
-      "drinkware":"Cocktail glass",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"3",
@@ -1981,15 +1981,15 @@
          "Shake all ingredients together with ice",
          "Strain into glass, garnish and serve"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":60,
       "url":"kamikaze-cocktail-recipe"
    },
    {  
       "name":"Lemon drop martini",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"Lemon slice",
-      "drinkware":"Martini glass",
+      "drinkware":"martini glass",
       "ingredients":[  
          {  
             "measure":"2.5",
@@ -2010,15 +2010,15 @@
       "preparation":[  
          "Shake and strain into a chilled cocktail glass rimmed with sugar"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":61,
       "url":"lemon-drop-martini-cocktail-recipe"
    },
    {  
       "name":"Pisco sour",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"Angostura bitters (1 dash)",
-      "drinkware":"Old Fashioned glass",
+      "drinkware":"old fashioned glass",
       "ingredients":[  
          {  
             "measure":"4.5",
@@ -2044,7 +2044,7 @@
       "preparation":[  
          "Vigorously shake contents in a cocktail shaker with ice cubes, then strain into a glass and garnish with bitters"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":62,
       "url":"pisco-sour-cocktail-recipe"
    },
@@ -2082,9 +2082,9 @@
    },
    {  
       "name":"Spritz Veneziano",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"Orange Wedge",
-      "drinkware":"Old Fashioned glass",
+      "drinkware":"old fashioned glass",
       "ingredients":[  
          {  
             "measure":"6",
@@ -2110,7 +2110,7 @@
    },
    {  
       "name":"Tommy's Margarita",
-      "served":"straight (except at Tommy\u2019s)",
+      "served":"straight (except at tommy\u2019s)",
       "drinkware":"cocktail glass",
       "ingredients":[  
          {  
@@ -2132,15 +2132,15 @@
       "preparation":[  
          "Shake and strain into a chilled cocktail glass"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":65,
       "url":"tommy's-margarita-cocktail-recipe"
    },
    {  
       "name":"Vampiro",
-      "served":"On the rocks; poured over ice",
+      "served":"on the rocks; poured over ice",
       "garnish":"Salt on the rim. Chili pepper (optional)",
-      "drinkware":"Old Fashioned glass",
+      "drinkware":"old fashioned glass",
       "ingredients":[  
          {  
             "measure":"5",
@@ -2197,11 +2197,11 @@
    },
    {  
       "name":"Vesper",
-      "served":"Straight up; without ice",
+      "served":"straight up; without ice",
       "garnish":"lemon twist",
       "drinkware":"chilled cocktail glass",
       "ingredients":[  
-          {  
+         {  
             "measure":"6",
             "unit":"cl",
             "ingredient":"Gin"
@@ -2221,14 +2221,14 @@
          "Shake and strain into a chilled cocktail glass",
          "Add the garnish"
       ],
-      "timing":"Before dinner",
+      "timing":"before dinner",
       "id":67,
       "url":"vesper-cocktail-recipe"
    },
    {  
       "name":"Yellow Bird",
-      "served":"Straight up; without ice",
-      "drinkware":"Cocktail glass",
+      "served":"straight up; without ice",
+      "drinkware":"cocktail glass",
       "ingredients":[  
          {  
             "measure":"3",
@@ -2254,7 +2254,7 @@
       "preparation":[  
          "Shake and strain into a chilled cocktail glass"
       ],
-      "timing":"All Day",
+      "timing":"all day",
       "id":68,
       "url":"yellow-bird-cocktail-recipe"
    }
